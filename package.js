@@ -12,7 +12,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.1.0.3');
-  api.addFiles('useragent.js');
+  api.addFiles(['platform.js'], 'client');
 });
 
 Package.onTest(function(api) {
