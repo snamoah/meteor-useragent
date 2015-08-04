@@ -4,7 +4,9 @@ This is a meteor package that allows you to detect information about the platfor
 
 ### Installation ###
 
-`$ meteor add snamoah:usergent`
+```
+$ meteor add snamoah:usergent
+```
 
 ### Usage ###
 
