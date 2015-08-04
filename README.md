@@ -10,7 +10,7 @@ $ meteor add snamoah:usergent
 
 ### Usage ###
 
-```
+```javascript
 // to detect os properties of the device
 
 var os = platform.os.family;     // returns OS name
