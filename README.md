@@ -25,5 +25,5 @@ var browserVersion = platform.version; // return browser version
 
 ```
 
-For more examples, see platoform.js [github page](https://github.com/bestiejs/platform.js/blob/master/doc/README.md#readme)
+For more examples, see platform.js [github page](https://github.com/bestiejs/platform.js/blob/master/doc/README.md#readme)
 
